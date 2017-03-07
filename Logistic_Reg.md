@@ -1,4 +1,4 @@
-Logistic Regression
+Logistic Regression (Linear Classifier)
 ================
 
 Information about users of a social network is provided. This social network has business clients and they put marketing ads on the social networking website. One of the business client is a car company who has recently launched a luxury car and they are going to put an ad about the newly launched car on the site. Social networking site has provided some data of users which positively responded to the ad by buying the car and negatively by not buying it.
