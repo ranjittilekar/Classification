@@ -20,7 +20,7 @@ library(ElemStatLearn)
 
 # Data Preprocessing template
 # Importing the dataset
-setwd("/ R/ Classification/Logistic_Regression")
+setwd("/ R/ Classification/Classification/Data")
 dataset = read.csv('Social_Network_Ads.csv')
 dataset = dataset[,3:5] ## We will be building the model based on Age and Salary of the user
 
